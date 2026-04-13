@@ -14,10 +14,6 @@ Registres :
 - Mémoire : Liste de mots de 8 bits (4 bits d'Opcode + 4 bits d'Opérande).
 - Bus de données : 4 bits.
 
-Mnémonique,Opcode,Description
-HALT,0000,Arrête l'exécution du programme.
-LDA,0001,Load : Charge la valeur située à l'adresse mémoire dans l'accumulateur.
-STA,0010,Store : Stocke la valeur de l'accumulateur à l'adresse mémoire spécifiée.
-ADD,0011,Add : Additionne la valeur à l'adresse mémoire à l'accumulateur.
-DATA,----,Directive assembleur pour stocker une valeur brute en mémoire.
+<img width="1331" height="1157" alt="schéma drawio" src="https://github.com/user-attachments/assets/44eabb9b-f890-42a8-847e-c9a598b533c3" />
+
 
